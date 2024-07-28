@@ -6,6 +6,7 @@ This was done by adding ownership on Google for the website.  The website used f
 '<meta itemprop="url" content="https://rjaques.github.io/Sirah-Project/"/>
 <meta itemprop="name" content="Sirah Project"/>'
 
+The major issue experienced with the SEO was setting up a homepage because the homepage redirects to the most recent version.  Another issue was figuring out how Google wanted the website structured.
 
 Explanation of .py files
 split.py - this script will divide a witness file into passages.  The output is a folder with each passage as a .txt file.
